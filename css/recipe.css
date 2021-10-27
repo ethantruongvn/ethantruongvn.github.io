@@ -2,16 +2,19 @@ h3 {
   background-color: #F0F0F0;
   color: #A4A400;
   text-decoration: underline;
-  /* text-align: center; */
-  font: Arial;
+}
+
+.divcenter {
+  text-align: center;
+  width: fit-content;
+  margin: 0 25% 0 25%;
+  ;
 }
 
 .centerheading {
-  text-align: center;
   font-size: 20pt;
   font-weight: bold;
-  width: fit-content;
-  padding: 0.24em;
+  padding: 0.25em;
 }
 
 .leftheading {
