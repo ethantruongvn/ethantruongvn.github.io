@@ -17,7 +17,7 @@ function binger(){
         text_area.style.color = "green";
         text_area.style.fontWeight = "bold";
         text_area.style.textDecoration = "underline";
-        document.body.style.backgroundImage = "url('images/hundred_dollar_bill.jpg')";
+        document.body.style.backgroundImage = "url('images/haloween.png')";
     } else {
         text_area.style.color = "black";
         text_area.style.fontWeight = "400";
