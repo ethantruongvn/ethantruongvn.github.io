@@ -62,7 +62,7 @@ init = function() {
         div.className = "puzzlepiece";
         div.style.left = x + 'px';
         div.style.top = y + 'px';
-        div.style.backgroundImage = 'url("avatar.jpg")';
+        // div.style.backgroundImage = 'url("avatar.jpg")';
         div.style.backgroundPosition = -x + 'px ' + (-y) + 'px';
 
         // store x and y for later
