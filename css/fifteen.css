@@ -22,7 +22,6 @@ button {
 /* This class should be applied to each of the 15 puzzle pieces. */
 
 .puzzlepiece {
-
     border: 5px solid black;
     width: 90px;
     height: 90px;
