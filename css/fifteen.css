@@ -9,7 +9,7 @@ button {
 /* The area that holds the 15 puzzle pieces. */
 
 #puzzlearea {
-    background-image: url('images/background.jpg');
+    background-image: url('../images/background.jpg');
     font-size: 40pt;
     width: 400px;
     height: 400px;
